@@ -1,7 +1,7 @@
 {
-  	"Gameurl1": "https://play.google.com/store/apps/details?id=com.freefunsimulator.topspeed.formula.car.derby.demolition.carcrash.stunts2021.games",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.epicboltactiongames.team.death.match4v4.offline.pvp.team.battleground.antiterrorist.commando.shooting.games2020",
-	"Gameurl3": "https://play.google.com/store/apps/details?id=com.epicboltactiongames.tdm.antiterrorism.commando.secret.mission.coverstrikeshooter.commandomissiongame2021",
-	"Gameurl4": "https://play.google.com/store/apps/details?id=com.extremesimulator.impossibletracks.mega.ramps.carstunts.stuntdriving.jet.car.racinggames"
+  	"Gameurl1": "amzn://apps/android?p=com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020",
+	"Gameurl2": "amzn://apps/android?p=com.es.rampcar.stunts.crazy.megaramps.carracing.games",
+	"Gameurl3": "amzn://apps/android?p=com.es.extreme.bikerider.stunt.race.motorcycle.master.bikegames",
+	"Gameurl4": "amzn://apps/android?p=com.extreme.simulator.fury.monster.jeep.parking.truck.driving.stunts2019"
     
 }
